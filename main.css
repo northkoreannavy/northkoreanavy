@@ -7,7 +7,10 @@ main {
   max-width: 70ch;
   padding: 2ch;
   margin: auto;
-  min-height: 100%;
+}
+img {
+  max-width: 70ch;
+  margin: auto;
 }
 header {
   margin-bottom: 1.5rem;
