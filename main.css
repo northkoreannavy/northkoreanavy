@@ -8,9 +8,13 @@ main {
   padding: 2ch;
   margin: auto;
 }
-img {
+.ncfill {
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
   max-width: 70ch;
-  margin: auto;
+  padding: 2ch;
+  background-image: url('./nc.jpg');
 }
 header {
   margin-bottom: 1.5rem;
