@@ -10,9 +10,11 @@ main {
 }
 .ncfill {
   overflow: hidden;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
   background-position: center;
   max-width: 70ch;
+  height: 35ch;
   padding: 2ch;
   background-image: url('./nc.jpg');
 }
